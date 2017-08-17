@@ -22,6 +22,8 @@ public class DifferentBase {
 		int $nameisgood = 0;
 		int name£ = 5;
 		
+		//Test comment for push
+		
 		String s;
 		String s_null = null;
 		/*
